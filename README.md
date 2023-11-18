@@ -1,0 +1,2 @@
+# SimpleClips
+Simple clipping tool
